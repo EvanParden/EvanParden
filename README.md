@@ -38,7 +38,18 @@
 ### [Become a beta tester](https://www.nvioware.com/sondeview/betaprogram)
 
 <div >
-    <img src="./assets/machup.jpg" height="400px" />
+    <img src="./assets/machup.png" height="400px" />
+</div>
+
+
+### Hive SDR
+
+<p>
+  Hive SDR is a remote, browser-based SDR program that utilizes a program running on a host device, such as a Raspberry Pi, which is connected to an SDR device. It also includes a proxy for the remote host and a web server that serves the web app, allowing clients to control the SDR host. This setup enables the SDR device to be tuned to a specified frequency, and the IQ signals are live-streamed to a proxy so that multiple clients can simultaneously use the device. SoapyRemote is employed between the host and the proxy, allowing the device owner to tune and adjust settings on the device.
+</p>
+
+<div >
+    <img src="./assets/hiveSS.png" height="400px" />
 </div>
 
 ### [Nvioware.com](https://www.nvioware.com)
