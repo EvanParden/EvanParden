@@ -29,16 +29,32 @@
 
 ----
 
+### [EvanParden.com](https://www.evanparden.com/)
+
+<p>
+  Evan Parden.com my personal website
+</p>
+
+<div >
+    <img src="./assets/Capture.PNG"  />
+</div>
+
+-----
+
 ### [SondeView](https://www.nvioware.com/sondeview)
 
 <p>
   Sondeview is a mobile app that uses Sondehub an Amateur Radio High Altitude Ballooning project with worldwide users that have set up ground stations to receive and upload data from radeiosonds Sondeview uses Sondehub's APIs and caches the data and has live data proxies to take the load of there infistrusher the app is built with react native
 </p>
 
+<div >
+    <img src="./assets/Featurgraphic.png"  />
+</div>
+
 ### [Become a beta tester](https://www.nvioware.com/sondeview/betaprogram)
 
 <div >
-    <img src="./assets/machup.png" height="400px" />
+    <img src="./assets/mockup.png" height="400px" />
 </div>
 
 
